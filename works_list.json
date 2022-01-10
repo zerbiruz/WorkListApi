@@ -1,6 +1,7 @@
 [
     {
         "project_name": "ประตูระบายน้ำห้วยลังกา",
+        "year": "2565",
         "project_type": "งานประเมินผลโครงการ",
         "province": "นครพนม",
         "budget": 177200,
@@ -10,6 +11,7 @@
     },
     {
         "project_name": "ระบบส่งน้ำอ่างเก็บน้ำแม่แคมอันเนื่องมาจากพระราชดำริ",
+        "year": "2565",
         "project_type": "sr",
         "province": "แพร่",
         "budget": 37000,
@@ -19,6 +21,7 @@
     },
     {
         "project_name": "โครงการเพิ่มประสิทธิภาพการกักเก็บน้ำอ่างเก็บน้ำแม่ถาง",
+        "year": "2565",
         "project_type": "sr",
         "province": "แพร่",
         "budget": 37000,
@@ -28,6 +31,7 @@
     },
     {
         "project_name": "อ่างเก็บน้ำบ้านคลองเจริญ",
+        "year": "2565",
         "project_type": "sr",
         "province": "ชัยภูมิ",
         "budget": 25000,
@@ -37,6 +41,7 @@
     },
     {
         "project_name": "ประตูระบายน้ำห้วยอังฮ่า",
+        "year": "2565",
         "project_type": "sr",
         "province": "บึงกาฬ",
         "budget": 37000,
@@ -46,6 +51,7 @@
     },
     {
         "project_name": "ประตูระบายน้ำบ้านสามขา",
+        "year": "2565",
         "project_type": "sr",
         "province": "มุกดาหาร",
         "budget": 37000,
@@ -55,6 +61,7 @@
     },
     {
         "project_name": "โครงการพัฒนาลุ่มน้ำห้วยหลวงตอนล่าง",
+        "year": "2565",
         "project_type": "eimp",
         "province": "หนองคาย",
         "budget": 160000,
@@ -64,6 +71,7 @@
     },
     {
         "project_name": "โครงการอ่างเก็บน้ำแม่สอดตอนบน",
+        "year": "2565",
         "project_type": "eimp",
         "province": "ตาก",
         "budget": 160000,
@@ -73,6 +81,7 @@
     },
     {
         "project_name": "โครงการอ่างเก็บน้ำห้วยบอน",
+        "year": "2565",
         "project_type": "eimp",
         "province": "อุบลราชธานี",
         "budget": 180000,
