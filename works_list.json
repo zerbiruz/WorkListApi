@@ -1,88 +1,91 @@
-[
-    {
-        "name": "Theera",
-        "projects": [
-            {
-                "project_name": "ประตูระบายน้ำห้วยลังกา",
-                "project_type": "งานประเมินผลโครงการ",
-                "province": "นครพนม",
-                "budget": 177200,
-                "responsible": "main",
-                "engineering_office": null,
-                "assistant_name": "พิมพาพร/สุรเทพ"
-            },
-            {
-                "project_name": "ระบบส่งน้ำอ่างเก็บน้ำแม่แคมอันเนื่องมาจากพระราชดำริ",
-                "project_type": "sr",
-                "province": "แพร่",
-                "budget": 37000,
-                "responsible": "main",
-                "engineering_office": "1",
-                "assistant_name": "จารุวรรณ"
-            },
-            {
-                "project_name": "โครงการเพิ่มประสิทธิภาพการกักเก็บน้ำอ่างเก็บน้ำแม่ถาง",
-                "project_type": "sr",
-                "province": "แพร่",
-                "budget": 37000,
-                "responsible": "main",
-                "engineering_office": "1",
-                "assistant_name": "จารุวรรณ"
-            },
-            {
-                "project_name": "อ่างเก็บน้ำบ้านคลองเจริญ",
-                "project_type": "sr",
-                "province": "ชัยภูมิ",
-                "budget": 25000,
-                "responsible": "assistant",
-                "engineering_office": "2",
-                "assistant_name": null
-            },
-            {
-                "project_name": "ประตูระบายน้ำห้วยอังฮ่า",
-                "project_type": "sr",
-                "province": "บึงกาฬ",
-                "budget": 37000,
-                "responsible": "main",
-                "engineering_office": "2",
-                "assistant_name": "พิมพาพร"
-            },
-            {
-                "project_name": "ประตูระบายน้ำบ้านสามขา",
-                "project_type": "sr",
-                "province": "มุกดาหาร",
-                "budget": 37000,
-                "responsible": "assistant",
-                "engineering_office": "2",
-                "assistant_name": null
-            },
-            {
-                "project_name": "โครงการพัฒนาลุ่มน้ำห้วยหลวงตอนล่าง",
-                "project_type": "eimp",
-                "province": "หนองคาย",
-                "budget": 160000,
-                "responsible": "main",
-                "engineering_office": null,
-                "assistant_name": "จารุวรรณ"
-            },
-            {
-                "project_name": "โครงการอ่างเก็บน้ำแม่สอดตอนบน",
-                "project_type": "eimp",
-                "province": "ตาก",
-                "budget": 160000,
-                "responsible": "assistant",
-                "engineering_office": null,
-                "assistant_name": null
-            },
-            {
-                "project_name": "โครงการอ่างเก็บน้ำห้วยบอน",
-                "project_type": "eimp",
-                "province": "อุบลราชธานี",
-                "budget": 180000,
-                "responsible": "main",
-                "engineering_office": null,
-                "assistant_name": "พิมพาพร"
-            }
-        ]
-    }
-]
+{
+    "office": "SocioEconomic",
+    "employee": [
+        {
+            "name": "Theera",
+            "projects": [
+                {
+                    "project_name": "ประตูระบายน้ำห้วยลังกา",
+                    "project_type": "งานประเมินผลโครงการ",
+                    "province": "นครพนม",
+                    "budget": 177200,
+                    "responsible": "main",
+                    "engineering_office": null,
+                    "assistant_name": "พิมพาพร/สุรเทพ"
+                },
+                {
+                    "project_name": "ระบบส่งน้ำอ่างเก็บน้ำแม่แคมอันเนื่องมาจากพระราชดำริ",
+                    "project_type": "sr",
+                    "province": "แพร่",
+                    "budget": 37000,
+                    "responsible": "main",
+                    "engineering_office": "1",
+                    "assistant_name": "จารุวรรณ"
+                },
+                {
+                    "project_name": "โครงการเพิ่มประสิทธิภาพการกักเก็บน้ำอ่างเก็บน้ำแม่ถาง",
+                    "project_type": "sr",
+                    "province": "แพร่",
+                    "budget": 37000,
+                    "responsible": "main",
+                    "engineering_office": "1",
+                    "assistant_name": "จารุวรรณ"
+                },
+                {
+                    "project_name": "อ่างเก็บน้ำบ้านคลองเจริญ",
+                    "project_type": "sr",
+                    "province": "ชัยภูมิ",
+                    "budget": 25000,
+                    "responsible": "assistant",
+                    "engineering_office": "2",
+                    "assistant_name": null
+                },
+                {
+                    "project_name": "ประตูระบายน้ำห้วยอังฮ่า",
+                    "project_type": "sr",
+                    "province": "บึงกาฬ",
+                    "budget": 37000,
+                    "responsible": "main",
+                    "engineering_office": "2",
+                    "assistant_name": "พิมพาพร"
+                },
+                {
+                    "project_name": "ประตูระบายน้ำบ้านสามขา",
+                    "project_type": "sr",
+                    "province": "มุกดาหาร",
+                    "budget": 37000,
+                    "responsible": "assistant",
+                    "engineering_office": "2",
+                    "assistant_name": null
+                },
+                {
+                    "project_name": "โครงการพัฒนาลุ่มน้ำห้วยหลวงตอนล่าง",
+                    "project_type": "eimp",
+                    "province": "หนองคาย",
+                    "budget": 160000,
+                    "responsible": "main",
+                    "engineering_office": null,
+                    "assistant_name": "จารุวรรณ"
+                },
+                {
+                    "project_name": "โครงการอ่างเก็บน้ำแม่สอดตอนบน",
+                    "project_type": "eimp",
+                    "province": "ตาก",
+                    "budget": 160000,
+                    "responsible": "assistant",
+                    "engineering_office": null,
+                    "assistant_name": null
+                },
+                {
+                    "project_name": "โครงการอ่างเก็บน้ำห้วยบอน",
+                    "project_type": "eimp",
+                    "province": "อุบลราชธานี",
+                    "budget": 180000,
+                    "responsible": "main",
+                    "engineering_office": null,
+                    "assistant_name": "พิมพาพร"
+                }
+            ]
+        }
+    ]
+}
